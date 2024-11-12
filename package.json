@@ -1,0 +1,22 @@
+{
+  "name": "WebdriverIO",
+  "type": "commonjs",
+
+"scripts": {
+    "test": "npx wdio run wdio.conf.js", 
+    "test:devVolvo": "npx wdio run wdio.conf.js --spec ./test/specs/devVolvo/*.js", 
+    "test:testVolvo": "npx wdio run wdio.conf.js --spec ./test/specs/testVolvo/*.js", 
+    "test:individual": "npx wdio run wdio.conf.js --spec ./test/specs/test.e2e.js", 
+    "test:local": "npx wdio run config/local/local.browser.conf.js --spec ./test/specs/test.e2e.js" 
+  },
+
+
+  "devDependencies": {
+    "@wdio/allure-reporter": "^9.2.2",
+    "@wdio/cli": "^9.2.12",
+    "@wdio/jasmine-framework": "^9.2.12",
+    "@wdio/local-runner": "^9.2.12",
+    "@wdio/spec-reporter": "^9.2.8",
+    "@wdio/visual-service": "^6.2.2"
+  }
+}

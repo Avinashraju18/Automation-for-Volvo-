@@ -1,0 +1,5 @@
+{
+  "error": "no such element",
+  "message": "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"#sitenav-topbar-wrapper > nav > div:nth-child(1) > div > a\"}\n  (Session info: chrome=130.0.6723.117)",
+  "stacktrace": "\tGetHandleVerifier [0x00007FF7390E3875+3004357]\n\t(No symbol) [0x00007FF738D79940]\n\t(No symbol) [0x00007FF738C2582A]\n\t(No symbol) [0x00007FF738C75B8E]\n\t(No symbol) [0x00007FF738C75E7C]\n\t(No symbol) [0x00007FF738CBEC27]\n\t(No symbol) [0x00007FF738C9BC1F]\n\t(No symbol) [0x00007FF738CBBA4C]\n\t(No symbol) [0x00007FF738C9B983]\n\t(No symbol) [0x00007FF738C67628]\n\t(No symbol) [0x00007FF738C68791]\n\tGetHandleVerifier [0x00007FF739109FDD+3161901]\n\tGetHandleVerifier [0x00007FF73915E030+3506048]\n\tGetHandleVerifier [0x00007FF739153FDD+3465005]\n\tGetHandleVerifier [0x00007FF738ED0EBB+830987]\n\t(No symbol) [0x00007FF738D8464F]\n\t(No symbol) [0x00007FF738D809A4]\n\t(No symbol) [0x00007FF738D80B3D]\n\t(No symbol) [0x00007FF738D70119]\n\tBaseThreadInitThunk [0x00007FFBDBD27374+20]\n\tRtlUserThreadStart [0x00007FFBDD2BCC91+33]\n"
+}
