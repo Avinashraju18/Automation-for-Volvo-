@@ -83,7 +83,11 @@ If you encounter issues with Allure, ensure that it is properly installed and se
 
 
 npm run test
+
 npm run test:devVolvo
+
 npm run test:testVolvo
+
 npm run test:individual
+
 npm run test:local
